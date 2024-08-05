@@ -20,7 +20,7 @@ form {
 	max-width: 400px;
 	width: 100%;
 	padding: 28px;
-	background: orange;
+	background: rgb(255, 192, 75);
 	border-radius: 10px;
 	box-shadow: 4px 4px 20px rgba(0, 0, 0, .1);
 }
